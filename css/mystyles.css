@@ -1,0 +1,51 @@
+.ui-icon-chapters:after {
+  background-image: url("../images/chapters.png");
+  background-size: 22px 22px;
+}
+
+.ui-icon-bookcity:after {
+  background-image: url("../images/bookCity.JPG");
+  background-size: 22px 22px;
+}
+
+.ui-icon-kobo:after {
+  background-image: url("../images/kobo.png");
+  background-size: 22px 22px;
+}
+
+.bookcover {
+  width: 70%;
+}
+
+.bookcover-lg {
+  width: 90%;
+}
+
+.booktitle {
+  width: 95%;
+}
+
+.bookitem {
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.mb-5 {
+  margin-bottom: 0.5em;
+}
+
+#profile div {
+  width: 100%;
+}
+
+#profile li:nth-child(2n+1) {
+  padding-right: 5px;
+}

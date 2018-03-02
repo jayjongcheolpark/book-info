@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<parjongc>
+  <title>Books</title>
+  <studentNumber program="Computer Programmer">
+    991433579
+  </studentNumber>
+  <studentName studentLoginName="parjongc">
+    Jongcheol Park
+  </studentName>
+  <bookStoreChain>
+    <bookStore url="https://www.chapters.indigo.ca/en-ca/">
+      Chapters
+    </bookStore>
+    <iconName>chapters.png</iconName>
+  </bookStoreChain>
+  <bookStoreChain>
+    <bookStore url="http://www.bookcity.ca/">
+      Bookcity
+    </bookStore>
+    <iconName>bookCity.JPG</iconName>
+  </bookStoreChain>
+  <bookStoreChain>
+    <bookStore url="https://www.kobo.com/">
+      Kobo
+    </bookStore>
+    <iconName>kobo.png</iconName>
+  </bookStoreChain>
+  <book>
+    <bookTitle>
+      React: Up &amp; Running
+    </bookTitle>
+    <bookPrice>41.65</bookPrice>
+    <bookDescription>
+      Facebook web developer Stoyan Stefanov teaches you how to build components and organize them into maintainable, large-scale apps.
+    </bookDescription>
+    <bookCategory>Programming</bookCategory>
+    <bookInventoryID>1491931825</bookInventoryID>
+    <bookImage>reactuprunning.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      Vue.js: Up &amp; Running
+    </bookTitle>
+    <bookPrice>51.31</bookPrice>
+    <bookDescription>
+      Get a brisk introduction to building fast, interactive single-page web applications with Vue.js, the popular JavaScript framework that organizes and simplifies web development.
+    </bookDescription>
+    <bookCategory>Programming</bookCategory>
+    <bookInventoryID>1491997249</bookInventoryID>
+    <bookImage>vue.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      ng-book: The Complete Guide to Angular 4
+    </bookTitle>
+    <bookPrice>74.23</bookPrice>
+    <bookDescription>
+      ng-book. The in-depth, complete, and up-to-date book on Angular 4. Become an Angular 4 expert today.
+    </bookDescription>
+    <bookCategory>Computers &amp; Technology</bookCategory>
+    <bookInventoryID>1546376232</bookInventoryID>
+    <bookImage>ng.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      Learning GraphQL: Declarative Data Fetching for Modern Web Apps
+    </bookTitle>
+    <bookPrice>49.70</bookPrice>
+    <bookDescription>
+      GraphQL, a data query language that provides an alternative to REST and ad-hoc webservice architectures, is the most revolutionary technology for data fetching since Ajax.
+    </bookDescription>
+    <bookCategory>Computers &amp; Technology</bookCategory>
+    <bookInventoryID>1492030716</bookInventoryID>
+    <bookImage>graphql.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      The Martian: Young Readers Edition
+    </bookTitle>
+    <bookPrice>9.94</bookPrice>
+    <bookDescription>
+      Six days ago, astronaut Mark Watney became one of the first people to walk on Mars.
+    </bookDescription>
+    <bookCategory>Science Fiction</bookCategory>
+    <bookInventoryID>1785034677</bookInventoryID>
+    <bookImage>martian.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      Harry Potter and the Philosopher's Stone
+    </bookTitle>
+    <bookPrice>12.93</bookPrice>
+    <bookDescription>
+      Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive.
+    </bookDescription>
+    <bookCategory>Fantasy</bookCategory>
+    <bookInventoryID>1408855658</bookInventoryID>
+    <bookImage>harrystone.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      Harry Potter and the Goblet of Fire
+    </bookTitle>
+    <bookPrice>14.40</bookPrice>
+    <bookDescription>
+      The Triwizard Tournament is to be held at Hogwarts. Only wizards who are over seventeen are allowed to enter - but that doesn't stop Harry dreaming that he will win the competition.
+    </bookDescription>
+    <bookCategory>Fantasy</bookCategory>
+    <bookInventoryID>1408855682</bookInventoryID>
+    <bookImage>harrydragon.jpg</bookImage>
+  </book>
+  <book>
+    <bookTitle>
+      Star Wars: Darth Vader Vol. 1
+    </bookTitle>
+    <bookPrice>15.72</bookPrice>
+    <bookDescription>
+      The original Dark Lord of the Sith stars in his first ongoing series! Ever since Darth Vader's first on-screen appearance, he has become one of pop culture's most popular villains.
+    </bookDescription>
+    <bookCategory>Graphic Novels</bookCategory>
+    <bookInventoryID>0785192557</bookInventoryID>
+    <bookImage>darth.jpg</bookImage>
+  </book>
+</parjongc>
